@@ -11,7 +11,7 @@ Atualmente busco minha **primeira oportunidade de estágio em desenvolvimento**,
 - 🧠 **Fundamentos de Computação** – lógica, algoritmos, redes e banco de dados (via graduação)
 - 📈 **Finanças e mercado financeiro** – conhecimento pessoal como investidor
 
-## 🧩 Projetos completos
+## 🧩 Projetos finalizados
 
 ### 🔸 Jogo Pedra, Papel e Tesoura
 Projeto simples com lógica condicional e interação com o usuário no terminal.
