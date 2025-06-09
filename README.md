@@ -31,9 +31,10 @@ Atualmente meus estudo por fora da graduação estão com foco em:
 
 - 🐍 **Python**
 - 🌐 **HTML e CSS**
+- 🤖 **IA e engenharia de prompts** 
+> Obs.: Uso AI como suporte no processo de aprendizado, principalmente para entender conceitos e resolver dúvidas. No entanto, desenvolvo os códigos por conta própria para consolidar o conhecimento.
 - 🔜 Próximo passo: **JavaScript** e lógica para web
-- **IA e engenharia de prompts** 
-Obs.: Uso AI como suporte no processo de aprendizado, principalmente para entender conceitos e resolver dúvidas. No entanto, desenvolvo os códigos por conta própria para consolidar o conhecimento.
+  
 
 ## 🎯 Objetivo
 
