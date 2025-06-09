@@ -11,16 +11,17 @@ Atualmente busco minha **primeira oportunidade de estágio em desenvolvimento**,
 - 🧠 **Fundamentos de Computação** – lógica, algoritmos, redes e banco de dados (via graduação)
 - 📈 **Finanças e mercado financeiro** – conhecimento pessoal como investidor
 
-## 🧪 Projetos em andamento
-
-### 🔹 [Gerador de Relatórios de Entrevista](https://github.com/SEU_USUARIO/gerador-relatorio-entrevista)
-Um script interativo em Python que coleta informações pessoais de candidatos e gera um relatório organizado, útil para entrevistas, triagem ou testes de lógica.
+## 🧩 Projetos completos
 
 ### 🔸 Jogo Pedra, Papel e Tesoura
 Projeto simples com lógica condicional e interação com o usuário no terminal.
 
 ### 🔸 Calculadora
 Simples calculadora feita com Python para reforçar o uso de funções e tipos numéricos.
+
+## 🧪 Projetos em andamento
+
+Um script interativo em Python que coleta informações pessoais de candidatos e gera um relatório organizado, útil para entrevistas, triagem ou testes de lógica.
 
 > Meus projetos ainda estão sendo organizados e publicados aos poucos aqui no GitHub. Fique à vontade pra acompanhar minha evolução! 😊
 
