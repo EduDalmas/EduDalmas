@@ -50,6 +50,6 @@ Meu objetivo é contribuir com projetos reais, crescer como profissional na áre
 
 - 📧 **edusantosdalmas@gmail.com**  
 - 📍 Caxias do Sul – RS  
-- linkedin.com/in/eduardodalmas
+- 🌐 linkedin.com/in/eduardodalmas
 
 > _"Grandes jornadas começam com um `print('Olá, mundo!')`."_  
