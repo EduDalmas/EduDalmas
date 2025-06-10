@@ -9,6 +9,7 @@ Atualmente busco minha **primeira oportunidade de estágio em desenvolvimento**,
 - 📌 **Python** – lógica de programação, entrada/saída, estruturas condicionais e funções
 - 🌐 **HTML e CSS** – construção básica de páginas web
 - 🧠 **Fundamentos de Computação** – lógica, algoritmos, redes e banco de dados (via graduação)
+- 🤖 **IA e engenharia de prompts**
 - 📈 **Finanças e mercado financeiro** – conhecimento pessoal como investidor
 
 ## 🧩 Projetos finalizados
